@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router';
+import {Link} from 'react-router';
 import 'bootstrap/dist/css/bootstrap.css';
 import img from '../assets/images/globus.jpg'
 
@@ -8,7 +8,7 @@ const Navigation = props => (
         <nav className="navbar navbar-default">
             <div className="container-fluid">
                 <div className="navbar-header">
-                    <Link className="navbar-brand" to="/"><img src= {img} className="navbar__logo"/></Link>
+                    <Link className="navbar-brand" to="/"><img src={img} className="navbar__logo"/></Link>
                 </div>
                 <div className="collapse navbar-collapse">
                     <ul className="nav navbar-nav">

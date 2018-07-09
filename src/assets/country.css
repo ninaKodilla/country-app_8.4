@@ -7,7 +7,7 @@
     height: 400px;
     width: 300px;
     border-radius: 10px;
-    box-shadow: 0 14px 28px rgba(0,0,0,0.10), 0 10px 10px rgba(0,0,0,0.13);
+    box-shadow: 0 14px 28px rgba(0, 0, 0, 0.10), 0 10px 10px rgba(0, 0, 0, 0.13);
     margin: 20px auto;
 }
 
@@ -34,7 +34,7 @@ header {
 
 .country-info {
     padding: 55px 5px 65px;
-    font-family: 'Roboto Condesed';
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 h1 {
